@@ -1,15 +1,13 @@
-# Hi there, I'm Ish 👋
+# Hello, I'm Ishwar 👋
 
 ## About Me
-- 🤖 I’m deeply interested in Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently honing my skills in Machine Learning and exploring its applications.
-- 💻 I have a background in Python, C++, and Java.
-- 🎯 I'm aiming to contribute to projects that are at the intersection of AI and practical software solutions.
-- 📫 How to reach me: ishwar.n.ramesh@gmail.com
+- 🎓 Senior at the University of Illinois Urbana-Champaign majoring in Computer Science and Economics.
+- 🧠 Passionate about combining the analytical rigor of Economics with the technical innovation of Computer Science.
+- 🚀 I love to challenge myself with new and exciting projects that push the boundaries of what's possible.
+- 💼 Eager to apply my knowledge in real-world settings and make a tangible impact.
+- 🤖 Keen interest in Machine Learning, aiming to bridge AI with economic models for smarter decision-making.
+- 📫 Reach out to me at: ishwar.n.ramesh@gmail.com
 
 ## Languages and Tools:
-- Python
-- C++
-- Java
-- Machine Learning Libraries (like TensorFlow, PyTorch, scikit-learn)
-
+- Proficient in: Python, C++, and Java
+- Exploring: Machine Learning Algorithms and Frameworks
