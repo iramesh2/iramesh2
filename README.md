@@ -13,6 +13,3 @@
 - Java
 - Machine Learning Libraries (like TensorFlow, PyTorch, scikit-learn)
 
-## My GitHub Stats
-![Ishwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iramesh2&show_icons=true&theme=radical)
-
