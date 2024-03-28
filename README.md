@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Ish 👋
 
-<!--
-**iramesh2/iramesh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🤖 I’m deeply interested in Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently honing my skills in Machine Learning and exploring its applications.
+- 💻 I have a background in Python, C++, and Java.
+- 🎯 I'm aiming to contribute to projects that are at the intersection of AI and practical software solutions.
+- 📫 How to reach me: ishwar.n.ramesh@gmail.com
 
-Here are some ideas to get you started:
+## Languages and Tools:
+- Python
+- C++
+- Java
+- Machine Learning Libraries (like TensorFlow, PyTorch, scikit-learn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![Ishwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iramesh2&show_icons=true&theme=radical)
+
