@@ -1,4 +1,4 @@
-# Hello, I'm Ishwar 👋
+# Hello, I'm Ish 👋
 
 ## About Me
 - 🎓 Senior at the University of Illinois Urbana-Champaign majoring in Computer Science and Economics.
